@@ -81,7 +81,6 @@ for i in range(500):
 import string
 alphabet = [str(i) for i in range(0,10)] + list(string.ascii_lowercase)
 
-
 main_path = os.path.dirname(os.path.realpath(__file__))
 print(main_path)
 

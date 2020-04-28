@@ -1,0 +1,217 @@
+1588043225260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA6zwPQ"
+1588043225591	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588043226135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588043226135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588043226135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588043226135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588043228060	Marionette	INFO	Listening on port 43659
+1588043228083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588043241134	Marionette	INFO	Stopped listening on port 43659
+1588043248691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevg48fg"
+1588043249012	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588043249534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588043249534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588043249535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588043249535	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588043251270	Marionette	INFO	Listening on port 36575
+1588043251306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588043261693	Marionette	INFO	Stopped listening on port 36575
+1588043276452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg1dytk"
+1588043276781	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588043277331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588043277331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588043277331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588043277331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588043279149	Marionette	INFO	Listening on port 46667
+1588043279162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 83: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 103: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 83: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 103: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1588043375511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek4Fl3B"
+1588043375876	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588043376405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588043376405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588043376406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588043376406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588043378057	Marionette	INFO	Listening on port 39903
+1588043378125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 83: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 103: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 83: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 103: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+1588043468614	Marionette	INFO	Stopped listening on port 39903
+1588043472277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9xGD71"
+1588043472610	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588043473147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588043473148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588043473148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588043473148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588043474936	Marionette	INFO	Listening on port 36497
+1588043474986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 83: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 103: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 83: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 103: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+1588044358582	Marionette	INFO	Stopped listening on port 36497
+1588044382316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHi3UmI"
+1588044382642	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588044383209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588044383209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588044383209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588044383209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588044385156	Marionette	INFO	Listening on port 43197
+1588044385224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 83: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 103: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 83: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 103: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+1588044585883	Marionette	INFO	Stopped listening on port 43197
+1588044649293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZygkMX"
+1588044649620	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588044650120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588044650120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588044650120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588044650120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588044651914	Marionette	INFO	Listening on port 46741
+1588044652006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 83: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 103: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 83: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 103: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+1588044978643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUrXgDO"
+1588044979114	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588044979835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588044979835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588044979835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588044979835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588044980550	Marionette	INFO	Stopped listening on port 46741
+1588044982004	Marionette	INFO	Listening on port 38547
+1588044982058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 83: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 103: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 83: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 103: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+1588045302557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilererNOS"
+1588045302895	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588045303406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588045303406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588045303407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588045303407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1588045305288	Marionette	INFO	Listening on port 40563
+1588045305374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 83: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 103: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200423/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 83: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/tai-khoan/, line 103: ReferenceError: $ is not defined
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function
+JavaScript error: https://quetsodienthoai.com/assets/js/_main.js, line 1: TypeError: $(...).owlCarousel is not a function

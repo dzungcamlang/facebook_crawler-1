@@ -7,7 +7,6 @@ Created on Mon Apr 27 23:50:57 2020
 """
 
 
-
 import numpy as np
 import matplotlib.pyplot as plt
 from keras.models import Sequential

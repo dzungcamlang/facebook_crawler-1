@@ -35,9 +35,9 @@ class Main_driver():
         except:
             chrome_path = 'C:/allowApps/chromedriver_win32/chromedriver.exe'
             options = webdriver.ChromeOptions()
-            options.add_argument("--headless")
+            #options.add_argument("--headless")
             options.add_argument("--start-maximized")
-            driver = webdriver.Chrome(chrome_path,chrome_options=options)
+            driver = webdriver.Chrome(chrome_path, options=options)
 
         self.driver = driver
         self.driver.get('https://quetsodienthoai.com/')
@@ -97,7 +97,9 @@ class Main_driver():
         else:
             self.driver.refresh()
             return False
+
     def captcha_check(self):
+
         status = ''
         WebDriverWait(self.driver, 20).until(ec.visibility_of_element_located(
             (By.XPATH,
@@ -115,16 +117,16 @@ class Main_driver():
                 status = 'not_found'
             elif result == 'Bạn chưa nhập hoặc đã nhập Sai mã bảo mật vui lòng kiểm tra lại':
                 status = 'not_send'
-
         except:
-            result = WebDriverWait(self.driver, 2).until(ec.visibility_of_element_located(
+            result = WebDriverWait(self.driver, 3).until(ec.visibility_of_element_located(
                 (By.XPATH,
                  '//*[@id="computer"]'))
             ).get_attribute('href')
             status = result
 
-        while status in ('not_send', '') or status == None:
+        while str(status) in (['not_send', '', 'None']) :
             self.captcha_check()
+
         return status
 
     def find_fb(self, sdt='01657078968'):
@@ -141,8 +143,8 @@ class Main_driver():
                 except:
                     continue
             result = self.captcha_check()
-
             return result
+
         except:
             self.driver.switch_to.active_element.send_keys(Keys.ENTER)
             self.find_fb(sdt)
@@ -154,8 +156,11 @@ if __name__ == '__main__':
     main_driver = Main_driver()
     df = pd.read_csv('sample_phone.csv',
                      converters={'ACT_MOBILE':str})
+
     mobiles = df['ACT_MOBILE'].tolist()
-    phones = mobiles[:10000]
+    phones = mobiles[:10]
+    pbar = tqdm(total=100)
+    rows = len(phones)
 
     results = []
     for phone in phones:
@@ -163,14 +168,15 @@ if __name__ == '__main__':
         if phone[:2] == '84':
             phone = '0' + phone[2:]
         results.append(main_driver.find_fb(sdt=phone))
+        pbar.update(100/rows )
 
     facebook_df = pd.DataFrame({'phone':phones, 'facebook':results})
     facebook_df.to_csv('facebook-10000.csv', index=None)
-    facebook_df.facebook.fillna('not_found', inplace=True)
+    #facebook_df.facebook.fillna('not_found', inplace=True)
     founded = len(facebook_df[facebook_df.facebook != 'not_found'])/ len(facebook_df)
+
     total_time = round(time.time()/60 - start/60, 2)
     main_driver.driver.close()
-
     print(f'conpleted in {total_time}, find : {founded*100} %')
     with open('log.txt', 'a+') as file:
         file.write(f'conpleted in {total_time} minutes, find : {founded*100} % \n')

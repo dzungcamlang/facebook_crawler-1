@@ -1,1 +1,4 @@
 conpleted in 0.68, find : 30.0 % 
+conpleted in 63.27 minutes, find : 43.0 % 
+conpleted in 0.81 minutes, find : 10.0 % 
+conpleted in 0.69 minutes, find : 20.0 % 
